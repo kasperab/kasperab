@@ -4,6 +4,5 @@
 
 :video_game: [Game Portfolio](https://kasperab.net/)  
 :briefcase: [LinkedIn](https://www.linkedin.com/in/kasperab/)  
-:space_invader: [Semble](https://www.semble.gg/profile/kasperab)  
 :keyboard: [CodinGame](https://www.codingame.com/profile/7cfa122e500589bbdd2613cd7201e0d66964545)  
 :page_facing_up: [CV](https://kasperab.net/cv)
